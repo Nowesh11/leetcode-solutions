@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Nowesh11/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Nowesh11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,15 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nowesh11/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
