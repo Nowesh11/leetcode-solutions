@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nowesh11/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Nowesh11/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0457-circular-array-loop](https://github.com/Nowesh11/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
@@ -121,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+## Trie
+|  |
+| ------- |
+| [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
