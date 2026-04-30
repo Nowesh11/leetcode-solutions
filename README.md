@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nowesh11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/Nowesh11/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0457-circular-array-loop](https://github.com/Nowesh11/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
