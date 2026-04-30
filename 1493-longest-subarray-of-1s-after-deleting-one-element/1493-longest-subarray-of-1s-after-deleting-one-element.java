@@ -17,7 +17,7 @@ class Solution {
             }
             maxL=Math.max(maxL,right-left);
         }
-        return maxL;
+        return maxL==Integer.MIN_VALUE?0:maxL;
         
     }
 }
