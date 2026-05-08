@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
 |  |
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Nowesh11/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
