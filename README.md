@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Nowesh11/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nowesh11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Nowesh11/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nowesh11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nowesh11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
