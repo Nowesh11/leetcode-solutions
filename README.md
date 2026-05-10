@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Nowesh11/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/Nowesh11/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nowesh11/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
