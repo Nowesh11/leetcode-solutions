@@ -6,18 +6,18 @@ class Solution {
         if((long)m*k > bloomDay.length)return -1;
         int ans=0;
 
-        while(low <= high){
+        while(low < high){
             int mid = low + (high - low)/2;
 
             if(makeBouquet(bloomDay,m,k,mid)){
-                ans=mid;
-                high=mid -1;
+                
+                high=mid;
             }else{
                 low=mid+1;
             }
 
         }
-        return ans;
+        return low;
         
     }
     public boolean makeBouquet(int[] arr,int bouquet,int flower,int mid){
