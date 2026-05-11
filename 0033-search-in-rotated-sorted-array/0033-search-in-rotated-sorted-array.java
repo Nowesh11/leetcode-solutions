@@ -12,14 +12,14 @@ class Solution {
 
             if(nums[mid] >= nums[low]){
 
-                if(nums[mid]>= target && target >= nums[low]){
+                if(nums[mid] > target && target >= nums[low]){
                     high = mid-1;
                 }else{
                     low = mid+1;
                 }
             }else{
 
-                if(target>= nums[mid] && target <=nums[high]){
+                if(target > nums[mid] && target <=nums[high]){
                     low = mid+1;
                 }else{
                     high=mid-1;
