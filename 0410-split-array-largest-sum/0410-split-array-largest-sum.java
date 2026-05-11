@@ -4,18 +4,17 @@ class Solution {
         int high = getSum(nums);
         int ans = high;
 
-        while(low<=high){
+        while(low<high){
 
             int mid = low + (high - low)/2;
 
             if(subArray(nums,k,mid)){
-                ans=mid;
-                high = mid -1;
+                high = mid;
             }else{
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
 
 
         
