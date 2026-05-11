@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Nowesh11/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nowesh11/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nowesh11/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Nowesh11/leetcode-solutions/tree/master/0278-first-bad-version) |
