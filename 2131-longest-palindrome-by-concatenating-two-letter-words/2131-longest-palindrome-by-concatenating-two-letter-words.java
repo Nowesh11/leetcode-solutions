@@ -5,7 +5,9 @@ class Solution {
 
         for(String word : words){
 
-            String reverse = "" + word.charAt(1) + word.charAt(0);
+            // String reverse = "" + word.charAt(1) + word.charAt(0);
+            String reverse = new StringBuilder(word).reverse().toString();
+            
 
             if(map.getOrDefault(reverse, 0) > 0){
                 res+=4;
