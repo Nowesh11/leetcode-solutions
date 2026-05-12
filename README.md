@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Nowesh11/leetcode-solutions/tree/master/1818-minimum-absolute-sum-difference) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Nowesh11/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nowesh11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nowesh11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Interactive
 |  |
 | ------- |
