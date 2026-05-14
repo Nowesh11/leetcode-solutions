@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nowesh11/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0394-decode-string) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nowesh11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Nowesh11/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Nowesh11/leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Nowesh11/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nowesh11/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nowesh11/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
