@@ -353,11 +353,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
