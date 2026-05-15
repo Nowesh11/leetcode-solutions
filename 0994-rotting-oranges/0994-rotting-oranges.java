@@ -1,46 +1,51 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid.length == 0 || grid == null) return -1;
-
+        Queue<int[]> queue = new LinkedList<>();
         int rows = grid.length;
         int cols = grid[0].length;
-        int[][] time = new int[rows][cols];
-
-        for(int i =0;i<rows;i++){
-            Arrays.fill(time[i],Integer.MAX_VALUE);
-        }
-
+        int fresh =0;
         for(int i =0;i<rows;i++){
             for(int j =0;j<cols;j++){
-
-                if(grid[i][j] == 2){
-                    dfs(grid,time,i,j,0);
+                if(grid[i][j]==2){
+                    queue.offer(new int[]{i,j});
                 }
-            }
-        }
-        int timeRequired = 0;
-        for(int i =0;i<rows;i++){
-            for(int j=0;j<cols;j++){
                 if(grid[i][j]==1){
-                    if(time[i][j] == Integer.MAX_VALUE)return -1;
-                    timeRequired = Math.max(timeRequired,time[i][j]);
+                    fresh++;
                 }
             }
         }
-        return timeRequired;
+        int[][] direction = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
+        int minutes=0;
 
-        
-    }
-    public void dfs(int[][] grid, int[][] time,int i,int j,int currentTime){
-        //base case
-        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || currentTime>=time[i][j] || grid[i][j]==0)return;
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            boolean rotted = false;
 
-        time[i][j] = currentTime;
-        //4 direction search
-        dfs(grid,time,i-1,j,currentTime +1);
-        dfs(grid,time,i+1,j,currentTime +1);
-        dfs(grid,time,i,j-1,currentTime +1);
-        dfs(grid,time,i,j+1,currentTime +1);
+            for(int i =0;i<size;i++){
+                
+                int[] curr = queue.poll();
+                int r = curr[0];
+                int c = curr[1];
 
+                for(int[] dir : direction){
+
+                    int nr = r + dir[0];
+                    int nc = c + dir[1];
+
+
+                    if(nr>=0 && nr< rows && nc>=0 && nc < cols && grid[nr][nc]==1){
+
+                        grid[nr][nc]=2;//make it rot
+                        queue.offer(new int[]{nr,nc});
+                        fresh--;
+                        rotted=true;
+                    }
+                }
+            }
+            if(rotted){
+                minutes++;
+            }
+        }
+        return fresh==0?minutes:-1;
     }
 }
