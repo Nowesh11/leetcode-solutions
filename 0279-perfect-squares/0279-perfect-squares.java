@@ -1,25 +1,33 @@
 class Solution {
-    int[] memo;
-    public int numSquares(int n) {
-        memo = new int[n+1];
-        Arrays.fill(memo,-1);
-        return helper(n);
-       
-    }
-    private int helper(int n){
 
-        //base case
-        if(n==0){
-            return 0;
+    public int numSquares(int n) {
+        Queue<Integer> queue = new LinkedList<>();
+        boolean[] visited = new boolean[n + 1];
+        queue.offer(n);
+        visited[n] = true;
+        int level = 0;
+
+        while (!queue.isEmpty()) {
+
+            int size = queue.size();
+            level++;
+
+            for (int j = 0; j < size; j++) {
+                int curr = queue.poll();
+
+                for (int i = 1; i * i <=curr; i++) {
+                    int next = curr - i * i;
+
+                    if (next == 0)
+                        return level;
+
+                    if (!visited[next]) {
+                        visited[next] = true;
+                        queue.offer(next);
+                    }
+                }
+            }
         }
-        if(memo[n] !=-1){
-            return memo[n];
-        }
-        int min = Integer.MAX_VALUE;
-        for(int i =1;i*i<=n;i++){
-            int curr = 1+ helper(n- i*i);
-            min = Math.min(min,curr);
-        }
-        return memo[n] =min;
+        return level;
     }
 }
