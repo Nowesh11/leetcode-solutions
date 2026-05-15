@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nowesh11/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Nowesh11/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nowesh11/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nowesh11/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0933-number-of-recent-calls](https://github.com/Nowesh11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nowesh11/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nowesh11/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Nowesh11/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Nowesh11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Breadth-First Search
