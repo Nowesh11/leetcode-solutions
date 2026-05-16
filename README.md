@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0933-number-of-recent-calls](https://github.com/Nowesh11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nowesh11/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Nowesh11/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nowesh11/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Union-Find
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Nowesh11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
@@ -446,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
