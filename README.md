@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nowesh11/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Nowesh11/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Nowesh11/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nowesh11/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nowesh11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nowesh11/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nowesh11/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nowesh11/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nowesh11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/Nowesh11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
