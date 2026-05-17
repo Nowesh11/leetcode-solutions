@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Nowesh11/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nowesh11/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nowesh11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Nowesh11/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nowesh11/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nowesh11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Nowesh11/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nowesh11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/Nowesh11/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nowesh11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nowesh11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nowesh11/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Nowesh11/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
