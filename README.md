@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
