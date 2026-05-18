@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nowesh11/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Nowesh11/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nowesh11/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Nowesh11/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nowesh11/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Nowesh11/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Nowesh11/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
