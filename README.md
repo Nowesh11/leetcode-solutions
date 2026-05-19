@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nowesh11/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nowesh11/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nowesh11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -630,4 +635,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
