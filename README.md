@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nowesh11/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nowesh11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nowesh11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Nowesh11/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
 |  |
@@ -556,12 +558,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Nowesh11/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
