@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nowesh11/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nowesh11/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Nowesh11/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/Nowesh11/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nowesh11/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nowesh11/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nowesh11/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nowesh11/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -615,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
