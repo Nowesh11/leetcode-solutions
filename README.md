@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nowesh11/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Nowesh11/leetcode-solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Nowesh11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nowesh11/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nowesh11/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Nowesh11/leetcode-solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nowesh11/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nowesh11/leetcode-solutions/tree/master/1094-car-pooling) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nowesh11/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nowesh11/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nowesh11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Nowesh11/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Nowesh11/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
@@ -569,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Nowesh11/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Nowesh11/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nowesh11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
