@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nowesh11/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Stack
 |  |
@@ -605,11 +606,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nowesh11/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nowesh11/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nowesh11/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nowesh11/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Data Stream
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nowesh11/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
 | ------- |
