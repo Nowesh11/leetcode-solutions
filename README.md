@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nowesh11/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nowesh11/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Nowesh11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Nowesh11/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nowesh11/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nowesh11/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Nowesh11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nowesh11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
