@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Nowesh11/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Nowesh11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/Nowesh11/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nowesh11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nowesh11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/Nowesh11/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Nowesh11/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Nowesh11/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Nowesh11/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0715-range-module](https://github.com/Nowesh11/leetcode-solutions/tree/master/0715-range-module) |
 ## Ordered Set
 |  |
@@ -678,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Nowesh11/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
