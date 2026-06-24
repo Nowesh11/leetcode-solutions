@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nowesh11/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nowesh11/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Nowesh11/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nowesh11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
