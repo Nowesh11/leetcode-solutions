@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Nowesh11/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Nowesh11/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Nowesh11/leetcode-solutions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nowesh11/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Nowesh11/leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nowesh11/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Nowesh11/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nowesh11/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nowesh11/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
 |  |
