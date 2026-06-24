@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nowesh11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nowesh11/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -691,5 +693,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
