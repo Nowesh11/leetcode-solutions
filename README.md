@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Nowesh11/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Nowesh11/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nowesh11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nowesh11/leetcode-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nowesh11/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
