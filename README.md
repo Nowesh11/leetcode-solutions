@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nowesh11/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Nowesh11/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nowesh11/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Nowesh11/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0745-prefix-and-suffix-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/Nowesh11/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nowesh11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nowesh11/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nowesh11/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Nowesh11/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
