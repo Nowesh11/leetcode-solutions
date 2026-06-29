@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nowesh11/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nowesh11/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nowesh11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nowesh11/leetcode-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Nowesh11/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0494-target-sum) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nowesh11/leetcode-solutions/tree/master/0078-subsets) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bitmask
 |  |
