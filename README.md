@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nowesh11/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Nowesh11/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nowesh11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nowesh11/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Nowesh11/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nowesh11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Nowesh11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nowesh11/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nowesh11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0100-same-tree) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nowesh11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nowesh11/leetcode-solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0494-target-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
