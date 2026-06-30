@@ -12,7 +12,7 @@ class Solution {
     private void backtrack(int n, int open, int close, String str){
 
         if(str.length() == (2*n)){
-            res.add(str);
+            res.add(new String(str));
             return;
         }
 
