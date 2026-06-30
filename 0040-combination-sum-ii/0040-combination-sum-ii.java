@@ -11,7 +11,7 @@ class Solution {
     }
     private void backtrack(List<Integer> current, int index, int sum){
         if(sum > target)return;
-        if(sum == target){
+        if(sum == target ){
             result.add(new ArrayList<>(current));
             return;
         }
