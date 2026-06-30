@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nowesh11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nowesh11/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Nowesh11/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Nowesh11/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nowesh11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nowesh11/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Nowesh11/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Nowesh11/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Nowesh11/leetcode-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nowesh11/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nowesh11/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nowesh11/leetcode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Nowesh11/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0494-target-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
