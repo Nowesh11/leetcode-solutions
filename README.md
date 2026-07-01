@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Nowesh11/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/Nowesh11/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Nowesh11/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nowesh11/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Nowesh11/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nowesh11/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Nowesh11/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Nowesh11/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Nowesh11/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Nowesh11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Nowesh11/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nowesh11/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Nowesh11/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nowesh11/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/Nowesh11/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Nowesh11/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Nowesh11/leetcode-solutions/tree/master/0494-target-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Nowesh11/leetcode-solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
